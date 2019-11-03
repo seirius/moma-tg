@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class test : MonoBehaviour {
+public class Move : MonoBehaviour {
     void Start() {
+
     }
 
     void Update() {

@@ -156,18 +156,18 @@ TextureImporter:
       name: orc_regular_bald_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 21
-        width: 11
-        height: 14
+        x: 0
+        y: 20
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9269d76a2899a9f27a40101e1f1a0d6b
+      spriteID: ce67c23d0b611164d9ee3bbc2189138c
       internalID: -3507454376644514581
       vertices: []
       indices: 
@@ -177,18 +177,18 @@ TextureImporter:
       name: orc_regular_bald_1
       rect:
         serializedVersion: 2
-        x: 24
-        y: 22
-        width: 11
-        height: 14
+        x: 20
+        y: 20
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd5a65cfd556bf709bb703ee7e09cddd
+      spriteID: a0cb1373237afe64fbad930a3f9529fc
       internalID: -5611406328461349710
       vertices: []
       indices: 
@@ -198,18 +198,18 @@ TextureImporter:
       name: orc_regular_bald_2
       rect:
         serializedVersion: 2
-        x: 44
-        y: 22
-        width: 12
-        height: 14
+        x: 40
+        y: 20
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c6bde49888f0e84e9da2652d3a500c1
+      spriteID: 533a60f2123f9cd4da3e22b9f36f976b
       internalID: -9214488956057102004
       vertices: []
       indices: 
@@ -219,18 +219,18 @@ TextureImporter:
       name: orc_regular_bald_3
       rect:
         serializedVersion: 2
-        x: 61
-        y: 21
-        width: 14
-        height: 14
+        x: 60
+        y: 20
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ec92a5e26c19caa8b855fa99682a348
+      spriteID: 12038bb60fa798b48bbda84fae9e8292
       internalID: 907114188663817679
       vertices: []
       indices: 
@@ -240,18 +240,18 @@ TextureImporter:
       name: orc_regular_bald_4
       rect:
         serializedVersion: 2
-        x: 84
-        y: 21
-        width: 11
-        height: 14
+        x: 80
+        y: 20
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a1de857b79f64793b34647a25e4a62f
+      spriteID: 89ffda11e0070334489db2a4f26c3014
       internalID: 1017612840202382832
       vertices: []
       indices: 
@@ -261,18 +261,18 @@ TextureImporter:
       name: orc_regular_bald_5
       rect:
         serializedVersion: 2
-        x: 105
-        y: 21
-        width: 11
-        height: 14
+        x: 100
+        y: 20
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a42aa61fd3017415dba9984c06441346
+      spriteID: b3dcddfb020a7b14a9fa3611dbb0c02b
       internalID: -977438262618718587
       vertices: []
       indices: 
@@ -282,18 +282,18 @@ TextureImporter:
       name: orc_regular_bald_6
       rect:
         serializedVersion: 2
-        x: 123
-        y: 21
-        width: 12
-        height: 14
+        x: 120
+        y: 20
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e52cde0c684e249a1a9d09127bb8c6fc
+      spriteID: be06ba7a4ef3dcf44ba818c44b12df73
       internalID: 5540115421621744713
       vertices: []
       indices: 
@@ -303,18 +303,18 @@ TextureImporter:
       name: orc_regular_bald_7
       rect:
         serializedVersion: 2
-        x: 143
-        y: 21
-        width: 12
-        height: 14
+        x: 140
+        y: 20
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63f5d316341e5efdf867f18784b7583d
+      spriteID: 209d2101c7925334fb48c91ae9fd9b04
       internalID: 9192381515067600465
       vertices: []
       indices: 
@@ -324,18 +324,18 @@ TextureImporter:
       name: orc_regular_bald_8
       rect:
         serializedVersion: 2
-        x: 164
-        y: 21
-        width: 14
-        height: 11
+        x: 160
+        y: 20
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ea4ac8524755d8a995effb25948853d
+      spriteID: 42b795b3637448949a6c2961bf0f17c6
       internalID: -8739404357931951835
       vertices: []
       indices: 
@@ -345,18 +345,18 @@ TextureImporter:
       name: orc_regular_bald_9
       rect:
         serializedVersion: 2
-        x: 3
-        y: 1
-        width: 13
-        height: 15
+        x: 0
+        y: 0
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d514fc9d16272abd1a795af0ce6cec81
+      spriteID: be76ba81f76d34e459a55a12a5527489
       internalID: -5411137114907855213
       vertices: []
       indices: 
@@ -366,18 +366,18 @@ TextureImporter:
       name: orc_regular_bald_10
       rect:
         serializedVersion: 2
-        x: 23
-        y: 2
-        width: 13
-        height: 15
+        x: 20
+        y: 0
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 109a8abbf65f1537bbc7a605c792dfe3
+      spriteID: 188c188a30aa9b84aa1b322260c32f6a
       internalID: 8588773635541511554
       vertices: []
       indices: 
@@ -387,18 +387,18 @@ TextureImporter:
       name: orc_regular_bald_11
       rect:
         serializedVersion: 2
-        x: 43
-        y: 2
-        width: 14
-        height: 15
+        x: 40
+        y: 0
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30f63e0cdf005ec3eb82d6f36a05c08e
+      spriteID: 0594d74b2e708e745b2c0fa16ca51ab1
       internalID: 8478977104065135714
       vertices: []
       indices: 
@@ -409,17 +409,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 60
-        y: 1
-        width: 16
-        height: 15
+        y: 0
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d1ac433fadaab72ebb56c1708cb5cbf
+      spriteID: 05a5c2445d274f349abd1652b404c48a
       internalID: -3406739338453569958
       vertices: []
       indices: 
@@ -429,18 +429,18 @@ TextureImporter:
       name: orc_regular_bald_13
       rect:
         serializedVersion: 2
-        x: 83
-        y: 1
-        width: 13
-        height: 15
+        x: 80
+        y: 0
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 218d1dda2dfc4ff59b27aac105ced5ac
+      spriteID: ff4041f9b480d734d9b6d54d93c4dfd7
       internalID: -8484188250399856458
       vertices: []
       indices: 
@@ -450,18 +450,18 @@ TextureImporter:
       name: orc_regular_bald_14
       rect:
         serializedVersion: 2
-        x: 104
-        y: 1
-        width: 13
-        height: 15
+        x: 100
+        y: 0
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14caf69e1e46c1011a1ee6f5079b47a7
+      spriteID: 6dcb702d5ebebda4d8dd50048eef1f88
       internalID: 3208059996712820308
       vertices: []
       indices: 
@@ -471,18 +471,18 @@ TextureImporter:
       name: orc_regular_bald_15
       rect:
         serializedVersion: 2
-        x: 122
-        y: 1
-        width: 14
-        height: 15
+        x: 120
+        y: 0
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdf1deeeb85552d17acde65338c5e0ae
+      spriteID: cbad4bbbdc416f84ab2a87db0890c0aa
       internalID: 1561792150042610727
       vertices: []
       indices: 
@@ -492,18 +492,18 @@ TextureImporter:
       name: orc_regular_bald_16
       rect:
         serializedVersion: 2
-        x: 142
-        y: 1
-        width: 14
-        height: 15
+        x: 140
+        y: 0
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed59b9c6bcc152b5cae7be816f3d9908
+      spriteID: 1dfa1558fa3ffea4ebbc975ce625e9f8
       internalID: 1591811890179644900
       vertices: []
       indices: 
@@ -513,18 +513,18 @@ TextureImporter:
       name: orc_regular_bald_17
       rect:
         serializedVersion: 2
-        x: 163
+        x: 160
         y: 0
-        width: 16
-        height: 13
+        width: 20
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e539c1032d21ca3459e15f00e1b7dbe4
+      spriteID: 2aa603adc1960a343976bb46bcaf8e7f
       internalID: 6941218356064689778
       vertices: []
       indices: 
